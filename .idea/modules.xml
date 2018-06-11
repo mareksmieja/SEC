@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sparse-Entropy-Clustering.iml" filepath="$PROJECT_DIR$/Sparse-Entropy-Clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEC.iml" filepath="$PROJECT_DIR$/SEC.iml" />
     </modules>
   </component>
 </project>

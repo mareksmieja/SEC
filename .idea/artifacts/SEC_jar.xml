@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SEC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SEC_jar</output-path>
+    <root id="archive" name="SEC.jar">
+      <element id="module-output" name="SEC" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mtj-1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
