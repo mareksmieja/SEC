@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sparse-Entropy-Clustering:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sparse_Entropy_Clustering_jar</output-path>
+    <root id="archive" name="Sparse-Entropy-Clustering.jar">
+      <element id="module-output" name="Sparse-Entropy-Clustering" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mtj-1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

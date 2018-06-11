@@ -1,0 +1,1 @@
+java -jar out/artifacts/Sparse_Entropy_Clustering_jar/Sparse-Entropy-Clustering.jar toy.properties
